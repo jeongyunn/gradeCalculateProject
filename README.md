@@ -1,6 +1,6 @@
 # gradeCalculateProject
 
-* 개발일지 : https://velog.io/@jeongyunn/Part-1-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-lb6kxniw
+* 개발일지 : https://velog.io/@jeongyunn/Part-1-개발일지-lb6kxniw
 
 * 과목 학점, 과목 평균 점수, 총 수강 이수 학점 등을 활용하여 학점을 계산하는 프로젝트
 
